@@ -8,7 +8,7 @@ I am a 5th-year Automation and Robotics student, passionate about modern technol
 
 * 🌍  I'm based in Kraków, Małopolskie, Poland
 * ✉️  You can contact me at [michal.sciubisz@gmail.com](mailto:michal.sciubisz@gmail.com)
-* 🚀  I'm currently working on [Perfume Recommendation System](http://github.com/michalsciubisz/SRP)
+* 🚀  I'm currently working on [Perfume Recommendation System](http://github.com/michalsciubisz/SRP) and [Medical Chatbot](https://github.com/michalsciubisz/medical_chatbot)
 
 ### Skills
 
