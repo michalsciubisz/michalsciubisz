@@ -36,7 +36,7 @@ I am a 5th-year Automation and Robotics student, passionate about modern technol
 [System for Configuring and Purchasing Computer Equipment](https://github.com/michalsciubisz/SdKiZSK)<sup>2025</sup> </br>
 [CallCenter Simulation](https://github.com/michalsciubisz/modele_kolejkowe_callcenter)<sup>2024</sup> </br>
 [Extended Kalman Filter](https://github.com/michalsciubisz/extended_kalman)<sup>2024</sup> </br>
-[AI vs real image recognition](https://github.com/michalsciubisz/deep_learning_CNN)<sup>2024</sup> </br>
+[AI vs real Image Recognition](https://github.com/michalsciubisz/deep_learning_CNN)<sup>2024</sup> </br>
 [Airly Project](https://github.com/michalsciubisz/airly_project_ad)<sup>2024</sup> </br>
 [Fertility Rate Prediction](https://github.com/michalsciubisz/fertility_rate_project)<sup>2024</sup> </br>
 [Robot Route Planning Genetic Algorithms](https://github.com/michalsciubisz/deep_learning)<sup>2024</sup> </br>
