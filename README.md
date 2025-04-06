@@ -1,7 +1,7 @@
 Hi 👋 My name is Michał Ściubisz
 ================================
 
-Software and Data Engineer
+Software & Data Engineer
 --------------------------
 
 I am a 5th-year Automation and Robotics student, passionate about modern technologies, data analysis, and automation. I have hands-on experience in programming (Python, SQL), machine learning (scikit-learn, NLP), and project management using Scrum and Jira.
