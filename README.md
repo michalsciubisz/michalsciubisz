@@ -33,7 +33,7 @@ I am a 5th-year Automation and Robotics student, passionate about modern technol
 [Perfume Recommend System](https://github.com/michalsciubisz/SRP)<sup>2025</sup> </br>
 [Intruder Detection System](https://github.com/michalsciubisz/IDS_project)<sup>2024/2025</sup> </br>
 [BCMP Networks](https://github.com/michalsciubisz/sieci_kolejkowe_bcmp)<sup>2024/2025</sup> </br>
-[System for Configuring and Purchasing Computer Equipment](https://github.com/michalsciubisz/SdKiZSK)<sup>2025</sup> </br>
+[System for Configuring and Purchasing Computer Equipment](https://github.com/ttarnawski/SdKiZSK/)<sup>2025</sup> </br>
 [CallCenter Simulation](https://github.com/michalsciubisz/modele_kolejkowe_callcenter)<sup>2024</sup> </br>
 [Extended Kalman Filter](https://github.com/michalsciubisz/extended_kalman)<sup>2024</sup> </br>
 [AI vs real Image Recognition](https://github.com/michalsciubisz/deep_learning_CNN)<sup>2024</sup> </br>
