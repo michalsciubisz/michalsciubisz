@@ -4,11 +4,11 @@ Hi, ny name is Michał Ściubisz
 SQL Intern at GGS It Consulting
 --------------------------
 
-I am a 5th-year Automation and Robotics student, passionate about modern technologies, data analysis, and automation. I have hands-on experience in programming (Python, SQL), machine learning (scikit-learn, NLP), and project management using Scrum and Jira.
+I recent graduate of Automation and Robotics at AGH University of Science, passionate about modern technologies, data analysis, and automation. I have hands-on experience in programming (Python, SQL), machine learning (scikit-learn, NLP), and project management using Scrum and Jira. Currently developing my skills in low-code platforms like Apex, Power Platform and UiPath.
 
 * 🌍  I'm based in Kraków, Małopolskie, Poland
 * ✉️  You can contact me at [michal.sciubisz@gmail.com](mailto:michal.sciubisz@gmail.com)
-* 🚀  I'm currently working on [Perfume Recommendation System](http://github.com/michalsciubisz/SRP) and [Medical Chatbot](https://github.com/michalsciubisz/medical_chatbot)
+* 🚀  I currently finished working on projects like: [Perfume Recommendation System](http://github.com/michalsciubisz/SRP) and [Medical Chatbot](https://github.com/michalsciubisz/medical_chatbot)
 
 ### Skills
 
